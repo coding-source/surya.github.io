@@ -1,5 +1,4 @@
-PASTETHEBELOWTEXTINREADMESECTION
-#SHAPEAIWEBDEVBOOTCAMP
+
 HiImadethisprojectduringthe7DaysFreeBootcamp,conductedby<b>SHAPEAI</b>.
 TheinstructorduringthesessionwasMr.ShauryaSinha(aDataAnalystatJio).Igottolearna
 lotduringthese7daysanditwasanamazingexperiencelearningwithSHAPEAI.
